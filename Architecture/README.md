@@ -1,5 +1,9 @@
 # IT Support Home Lab Architecture
 
+## Network Diagram
+
+![Network Diagram](network-diagram.png)
+
 ## Environment Overview
 
 The lab consists of a Windows Server 2025 Domain Controller and a Windows 11 domain-joined workstation connected through an internal VirtualBox network.
